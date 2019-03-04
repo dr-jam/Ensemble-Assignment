@@ -13,7 +13,7 @@ Your experience must include at least the following:
   * Directed values
   * Undirected values
   * Intents
-  * Numberic values
+  * Numeric values
   * Boolean values
   * Single turn values
 
