@@ -1,6 +1,14 @@
 # Ensemble Assignment
 
-You goal is to make a character-centric interactive short story using CiF/Ensemble. The output can be textual, graphical, or a blend (see the *Lovers and Rivals* example project*). The project in the graded folder of the master branch will be assessed. 
+You goal is to make a character-centric interactive short story using CiF/Ensemble. The output can be textual, graphical, or a blend (see the *Lovers and Rivals* example project). The project in the graded folder of the master branch will be assessed. 
+
+## Repository Structure ##
+
+*doc* - The documentation that includes a description of the cif.js API and a guided tour on how to set up a project.
+*exampleSchemata* - Examples of authored content.
+*graded* - This is where you should put your project.
+*sampleEmptyProject* - A skeleton project that could be a useful base for your work.
+*sampleGame* - Contains a demo game called "Lovers and Rivals"
 
 ## Constraints ##
 
