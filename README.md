@@ -4,11 +4,11 @@ You goal is to make a character-centric interactive short story using CiF/Ensemb
 
 ## Repository Structure ##
 
-*doc* - The documentation that includes a description of the cif.js API and a guided tour on how to set up a project.
-*exampleSchemata* - Examples of authored content.
-*graded* - This is where you should put your project.
-*sampleEmptyProject* - A skeleton project that could be a useful base for your work.
-*sampleGame* - Contains a demo game called "Lovers and Rivals"
+* *doc* - The documentation that includes a description of the cif.js API and a guided tour on how to set up a project.
+* *exampleSchemata* - Examples of authored content.
+* *graded* - This is where you should put your project.
+* *sampleEmptyProject* - A skeleton project that could be a useful base for your work.
+* *sampleGame* - Contains a demo game called "Lovers and Rivals"
 
 ## Constraints ##
 
